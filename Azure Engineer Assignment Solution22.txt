@@ -1,0 +1,27 @@
+# Azure Engineer Assignment Solution
+
+This repository contains my completed solution for the Azure Engineer position assignment provided by Symplique Solutions.
+
+## Files
+
+- **Azure_Engineer_Assignment_Solution.pdf**  
+  The complete PDF containing the detailed solution to the assignment.
+
+## How to View
+Click the link below to view the PDF directly:
+
+[📄 Azure_Engineer_Assignment_Solution.pdf](Azure_Engineer_Assignment_Solution.pdf)
+
+---
+
+**Author:** Anupama Upadhyay  
+**Date:** August 2025
+
+
+
+
+
+
+
+
+
